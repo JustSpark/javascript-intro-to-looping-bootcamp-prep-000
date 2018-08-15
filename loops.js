@@ -13,5 +13,6 @@ function whileLoop() {
   while (countdown > 5) {
     console.log(countdown);
     countdown--;
+    return 'done';
   }
 }
