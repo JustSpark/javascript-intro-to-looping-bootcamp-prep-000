@@ -10,7 +10,7 @@ function forLoop() {
 }
 function maybeTrue() {
   let countdown = 100;
-  while (maybeTrue()) {
+  while (countdown < 0()) {
     console.log("And I ran; I ran so far away!")
   }
 }
