@@ -8,11 +8,6 @@ function makeArray() {
 
   return [array, t];
 }
-function whileLoop() {
-  let countdown = 100;
-  while (countdown > ) {
-    console.log(countdown);
-    countdown--;
-    return 'done';
+function forLoop()
   }
 }
