@@ -1,6 +1,8 @@
 function forLoop(array) {
   t = 25;
-  for (let i = 0; i < t; i++) {
+  i=0
+  if (i < t)
+  i++; {
   console.log(`"I am ${i} strange loop."`);
   
 }
