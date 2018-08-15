@@ -3,9 +3,8 @@ function forLoop(array) {
   array.push(`"I am ${i} strange loop${i === 0 ? '' : 's'}."`);
   return array;
 }
-function whileLoop(countdown) 
-  countdown = 100
-  while ([countdown > 0]) {
+function whileLoop(n) 
+  while ([n > 0]) {
     console.log(--countdown);
     
   }
