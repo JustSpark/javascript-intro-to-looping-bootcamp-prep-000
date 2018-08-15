@@ -8,7 +8,7 @@ function forLoop() {
 
   return [array, t];
 }
-function maybeTrue() {
+function whileLoop() {
   let countdown = 100;
   while (countdown > 5) {
     console.log(countdown);
