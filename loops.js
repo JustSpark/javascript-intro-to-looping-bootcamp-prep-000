@@ -4,7 +4,7 @@ function forLoop(array) {
   return array;
 }
 function whileLoop(countdown) 
-  countdown = 27
+  countdown = 100
   while ([countdown > 0]) {
     console.log(--countdown);
     return 'done';
