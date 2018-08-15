@@ -1,4 +1,4 @@
-function makeArray() {
+function forLoop() {
   const array = [];
   const t = 10;
 
