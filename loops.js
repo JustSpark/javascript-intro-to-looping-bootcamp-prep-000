@@ -1,5 +1,5 @@
 function forLoop() {
-  const array = [];
+  const forLoop = [];
   const t = 25;
 
   for (let i = 0; i < t; i++) {
