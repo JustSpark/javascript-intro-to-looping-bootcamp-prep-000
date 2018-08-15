@@ -3,7 +3,7 @@ function makeArray() {
   const t = 10;
 
   for (let i = 0; i < t; i++) {
-    array.push("I am a strange loop.");
+    array.push(`"I am ${i} strange loop."`);
   }
 
   return [array, t];
