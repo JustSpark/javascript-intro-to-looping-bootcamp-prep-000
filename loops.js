@@ -1,7 +1,7 @@
 function makeArray() {
  const array = [];
- const t = 10;
+ const t = 25;
   for (let i = 0; i < t; i++) {
-    array.push("I am a strange loop.");
+    array.push("I am" ${i} "strange loop.");
   }
 }
