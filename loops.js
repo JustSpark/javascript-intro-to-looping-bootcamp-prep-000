@@ -1,6 +1,6 @@
 function forLoop(array) {
   for (let i = 0; i < 25; i++) 
-  
-  return forLoop;
+  if (i < 25);
+  return array;
 }
    
