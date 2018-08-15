@@ -4,6 +4,4 @@ function forLoop(array) {
   return array;
 }
 function whileLoop(n)
-  while ([n > 0]) {
-    [n--]
-  }
+  n return Math.random() >= 0.5;
