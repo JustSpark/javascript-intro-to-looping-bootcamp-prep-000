@@ -9,7 +9,7 @@ function forLoop() {
   return [array, t];
 }
 function maybeTrue() {
-  return Math.random() >= 0.5;
+  let countdown = 100;
   while (maybeTrue()) {
     console.log("And I ran; I ran so far away!")
   }
