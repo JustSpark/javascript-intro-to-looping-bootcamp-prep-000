@@ -4,4 +4,7 @@ function forLoop(array) {
   return array;
 }
 function whileLoop(n)
-  n return Math.random() >= 0.5;
+  n let countdown = 27;
+  while (countdown > 0) {
+    console.log(--countdown);
+  }
