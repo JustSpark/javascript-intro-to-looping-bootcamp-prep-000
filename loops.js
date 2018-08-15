@@ -11,6 +11,6 @@ function forLoop() {
 function maybeTrue() {
   let countdown = 100;
   while (countdown > 5) {
-    console.log(countdown
+    console.log(countdown);
   }
 }
