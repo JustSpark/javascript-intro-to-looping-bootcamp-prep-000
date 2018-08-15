@@ -8,3 +8,6 @@ function makeArray() {
 
   return [array, t];
 }
+forLoop(array) {
+  let 
+}
